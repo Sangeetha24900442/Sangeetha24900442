@@ -1,13 +1,13 @@
-# 👋 Hey there! I'm Sangeetha S
+#  Hey there! I'm Sangeetha S
 
-🚀 Aspiring Full Stack Developer | 🎓 First-Year Engineering Student  
+ Aspiring Full Stack Developer | First-Year Engineering Student  
 I’m passionate about building interactive websites and smart applications from the ground up.  
 Currently learning front-end tech (HTML, CSS, JavaScript) and exploring back-end tools to become a full stack powerhouse.  
-Let's code, design, and innovate together! 💻🌐
+Let's code, design, and innovate together! 
 
 ---
 
-## 🔭 Current Goals
+##  Current Goals
 - Improve my frontend web development skills
 - Build a strong portfolio
 - Improve my coding skills 
@@ -20,17 +20,17 @@ Let's code, design, and innovate together! 💻🌐
 - VS Code & Live Server
 - Python and C programming
 
-## 🔗 Portfolio
+##  Portfolio
 Coming soon! (Working on it)
 
-## 💡 Favorite Quote
+##  Favorite Quote
 > “The future belongs to those who believe in the beauty of their dreams.” – Eleanor Roosevelt
 
-## 🎨 Hobbies
+##  Hobbies
 - Baking cakes and cookies
 - Designing Interfaces
 - Reading books
 - Exploring new tools
 
-## 📊 GitHub Stats
+##  GitHub Stats
 ![Sangeetha’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sangeetha24900442&show_icons=true&theme=dracula)
