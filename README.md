@@ -13,7 +13,7 @@ Let's code, design, and innovate together!
 - Improve my coding skills 
 - Explore freelancing opportunities
 
-## 🛠️ Technologies I’m Learning
+##  Technologies I’m Learning
 - HTML, CSS, JavaScript
 - Git & GitHub
 - UI/UX Design with Figma
